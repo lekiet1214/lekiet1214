@@ -1,5 +1,5 @@
 ### Hi there 👋
-So, you decided to waste your time here, there're something you might wanna know:
+So, you have decided to waste your time here, there're something you might wanna know:
 
 - 🌱 I’m currently in college
 - 💬 Ask me about ***anything***
