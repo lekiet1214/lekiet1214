@@ -2,7 +2,8 @@
 🔭 I’m currently going to University of Information Technology - VNUHCM.\
 🌱 I’m currently learning more about Data Science.\
 💬 Ask me about any tech-related stuff.\
-📫 How to reach me: Email - sisu1214@gmail.com.
+📫 How to reach me: Email - sisu1214@gmail.com.\
+📸 Check my [blog](https://blog.nhonho.xyz) - https://blog.nhonho.xyz
 
 
 ## 🌐 Socials:
