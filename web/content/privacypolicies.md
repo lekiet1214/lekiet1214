@@ -61,13 +61,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 - Email address
 
-
-
-
-
 - Usage Data
-
-
 
 ### Usage Data
 
@@ -78,14 +72,6 @@ Usage Data may include information such as Your Device's Internet Protocol addre
 When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
-
-
-
-
-
-
-
-
 
 ## Use of Your Personal Data
 
@@ -158,28 +144,11 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-
-
-
-
-
-
-
-
-
-
-
 # Children's Privacy
 
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
-
-
-
-
-
-
 
 # Links to Other Websites
 
@@ -199,5 +168,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-
-- By email: sisu1214@gmail.com
+- By email: nho@nhonho.xyz
