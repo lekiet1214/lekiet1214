@@ -1,5 +1,5 @@
 ---
-title: Le Kiet
+title: Le Kiets
 navigation:
   title: Lê Kiệt
 ---
