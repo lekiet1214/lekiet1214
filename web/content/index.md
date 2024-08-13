@@ -4,7 +4,7 @@ navigation:
   title: Lê Kiệt
 ---
 
-[](https://github-profile-summary-cards.vercel.app){target="https://github-profile-summary-cards.vercel.app"}[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214\&theme=chartreuse_dark)](https://github-profile-summary-cards.vercel.app)
+[](https://github-profile-summary-cards.vercel.app)[![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214\&theme=chartreuse_dark)](https://github-profile-summary-cards.vercel.app)
 
 [](https://git.io/streak-stats){terget="https://git.io/streak-stats"}[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lekiet1214\&theme=transparent\&locale=vi\&hide_current_streak=true)](https://git.io/streak-stats)
 
