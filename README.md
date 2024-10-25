@@ -4,5 +4,5 @@
 ___
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214&theme=synthwave)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214&theme=material_palenight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lekiet1214&theme=tokyonight&hide_border=true&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
