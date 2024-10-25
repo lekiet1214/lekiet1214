@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=54&center=true&vCenter=true&multiline=true&width=435&height=100&lines=It's+a+me%2C+Le+Kiet+!+!+!;making+stuffs+.+.+.)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=54&center=true&vCenter=false&multiline=true&width=435&height=50&lines=It's+a+me%2C+LTT+Kiet+!+!+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=54&center=true&vCenter=false&multiline=true&width=435&height=50&lines=making+stuffs+.+.+.)](https://git.io/typing-svg)
 ___
 
 
