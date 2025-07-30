@@ -6,7 +6,7 @@ ___
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=1984&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214&theme=material_palenight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lekiet1214&theme=tokyonight&hide_border=true&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lekiet1214&theme=transparent&hide_border=true&locale=vi&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lekiet1214&rank=S,SS,SSS,A,AA,AAA&theme=dracula" alt="lekiet1214" /></a> </p>
