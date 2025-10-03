@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=54&center=true&vCenter=false&multiline=true&width=435&height=50&lines=making+stuffs+.+.+.)](https://git.io/typing-svg)
 ___
 
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=1984&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/591679015291715594?showDisplayName=true&hideProfile=true)](https://discord.com/users/591679015291715594)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekiet1214&theme=material_palenight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lekiet1214&theme=transparent&hide_border=true&locale=vi&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
